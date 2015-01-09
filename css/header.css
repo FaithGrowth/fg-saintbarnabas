@@ -1,0 +1,24 @@
+.site-header .wrap:first-child {
+	background-color: #FFFFFF;
+	margin-top: -25px;
+}
+
+.nav-primary {
+	width: 1200px !important;
+	min-width: 1200px;
+	clear: none !important;
+	float: left;
+}
+
+.nav-primary .wrap {
+	background-color: #cacaca !important;
+}
+
+.widget_search {
+	width: 100px;
+	float: right;
+}
+
+.widget_search .search-form {
+	width: 300px;
+}
